@@ -1,1 +1,1 @@
-# 42AI-Python-Bootcamp
+Repository for 42AI Python Bootcamp scripts
